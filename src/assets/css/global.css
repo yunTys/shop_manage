@@ -29,3 +29,15 @@ html,body,#app{
 .el-cascader-menu{
   height: 204px;
 }
+
+.el-steps{
+  margin: 20px 0;
+}
+
+.el-step__title{
+  font-size: 13px;
+}
+
+.ql-container{
+  height: 234px !important;
+}
